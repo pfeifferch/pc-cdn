@@ -1,13 +1,13 @@
 ## GitHub Pages
 
 
-[pc-cdn](http://www.pc-cdn.eu/)
+[pc-cdn](https://www.pc-cdn.eu/)
 
-[playground](gh.pfeiffer.space)
+[playground](https://gh.pfeiffer.space)
 
-[disposable-mailbox](gh.disposable-mailbox.eu)
+[disposable-mailbox](https://gh.disposable-mailbox.eu)
 
-[dmb-cdn](cdn.gh.disposable-mailbox.eu)
+[dmb-cdn](https://cdn.gh.disposable-mailbox.eu)
 
 
 []()
