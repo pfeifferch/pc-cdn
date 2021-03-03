@@ -5,11 +5,11 @@
 </style>
 
 
-<span id="wrap">
-## Vielen Dank für Ihren Besuch auf dieser Seite. 
+<div id="wrap">
+Vielen Dank für Ihren Besuch auf dieser Seite. 
 
-### Dies ist ein Privat betriebener URL-Shortener. 
-</span>
+Dies ist ein CDN. 
+</div>
 
 
 <footer id="footer" role="contentinfo">
