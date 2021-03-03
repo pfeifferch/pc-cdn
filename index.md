@@ -2,10 +2,10 @@
 <link rel="stylesheet" href="https://nipp.es/css/tablesorter.css?v=1.8" type="text/css" media="screen" />
 
 
-</head>
 
-# Vielen Dank für Ihren Besuch auf dieser Seite. 
-## Dies ist ein Privat betriebener URL-Shortener. <hr/>
+
+## Vielen Dank für Ihren Besuch auf dieser Seite. 
+### Dies ist ein Privat betriebener URL-Shortener. <hr/>
 
 
 
@@ -22,4 +22,4 @@ Kontakt:
 | 			
 <a href="https://nipp.es/quellenangaben">Quellenangaben</a>
 
-</footer> </body> </html>
+</footer>
