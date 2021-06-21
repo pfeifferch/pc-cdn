@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://nipp.es/css/tablesorter.css?v=1.8" type="text/css" media="screen" />
 <style type="text/css">
 		body {
-background:#e3f3ff url(https://nipp.es/user/plugins/random-bg/img/bg_boobs.png) repeat;}
+background:#31BAFD url(https://new.pc-cdn.eu/images/bg.jpg) repeat;}
 </style>
 
 
