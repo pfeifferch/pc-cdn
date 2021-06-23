@@ -16,8 +16,11 @@
 <link rel="stylesheet" href="https://nipp.es/css/tablesorter.css?v=1.8" type="text/css" media="screen" />
 <style type="text/css">
 body {
-background-image: url("/assets/images/overlay-pattern.png");
 background-color: #31BAFD;
+background-image: url("/assets/images/overlay-pattern.png");
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
 }
 </style>
 
