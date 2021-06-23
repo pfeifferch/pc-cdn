@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="https://nipp.es/css/tablesorter.css?v=1.8" type="text/css" media="screen" />
 <style type="text/css">
 body {
-background-image: url("https://new.pc-cdn.eu/static/overlay-pattern-9f5bce93242f9468f4a5751cf58315f6.png");
+background-image: url("/assets/images/overlay-pattern.png");
 background-color: #31BAFD;
 }
 </style>
