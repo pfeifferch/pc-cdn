@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="https://nipp.es/css/tablesorter.css?v=1.8" type="text/css" media="screen" />
 <style type="text/css">
 		body {
-background:#31BAFD url(https://new.pc-cdn.eu/images/bg.jpg) repeat;}
+background:#31BAFD url(https://new.pc-cdn.eu/static/overlay-pattern-9f5bce93242f9468f4a5751cf58315f6.png) repeat;}
 </style>
 
 
@@ -34,7 +34,9 @@ Dies ist ein CDN.
    
 
 
-<footer id="footer" role="contentinfo">
+<footer id="footer" role="contentinfo" style="background:#31BAFD url(https://new.pc-cdn.eu/static/bg-747893512efbeb5e50c2f6d6283f6d41.jpg) repeat;}">
+
+
 <p> 			
 Kontakt: 			
 <a href="https://nipp.es/kontakt">Kontaktformular</a> 
