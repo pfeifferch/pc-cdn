@@ -34,7 +34,7 @@ Dies ist ein CDN.
    
 
 
-<footer id="footer" role="contentinfo" style="background:#31BAFD url(https://new.pc-cdn.eu/static/bg-747893512efbeb5e50c2f6d6283f6d41.jpg) repeat;}">
+<footer id="footer" role="contentinfo">
 
 
 <p> 			
