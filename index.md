@@ -15,8 +15,10 @@
 <link rel="stylesheet" href="https://nipp.es/css/style.css?v=1.8" type="text/css" media="screen" />
 <link rel="stylesheet" href="https://nipp.es/css/tablesorter.css?v=1.8" type="text/css" media="screen" />
 <style type="text/css">
-		body {
-background:#31BAFD url(https://new.pc-cdn.eu/static/overlay-pattern-9f5bce93242f9468f4a5751cf58315f6.png) repeat;}
+body {
+background-image: url("https://new.pc-cdn.eu/static/overlay-pattern-9f5bce93242f9468f4a5751cf58315f6.png");
+background-color: #31BAFD;
+}
 </style>
 
 
