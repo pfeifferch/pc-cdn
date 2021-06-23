@@ -17,7 +17,7 @@
 <style type="text/css">
 body {
 background-color: #31BAFD;
-background-image: url("/assets/images/overlay-pattern.png");
+background-image: url("/assets/images/overlay.svg");
 background-position: center; /* Center the image */
 background-repeat: no-repeat; /* Do not repeat the image */
 background-size: cover; /* Resize the background image to cover the entire container */
