@@ -17,9 +17,10 @@
 <style type="text/css">
 body {
 background-color: #31BAFD;
-background-image: url("/assets/images/overlay.svg");
-background-position: center; /* Center the image */
-background-repeat: no-repeat; /* Do not repeat the image */
+background:url('/assets/images/overlay.svg') 0 0 no-repeat;
+/* background-image:url("/assets/images/overlay.svg");
+/* background-position:center; /* Center the image */
+/* background-repeat:no-repeat; /* Do not repeat the image */
 background-size: cover; /* Resize the background image to cover the entire container */
 }
 </style>
